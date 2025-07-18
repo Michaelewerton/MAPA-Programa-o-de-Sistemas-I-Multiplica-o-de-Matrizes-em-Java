@@ -1,4 +1,4 @@
-🎓MAPA – Programação de Sistemas I: Multiplicação de Matrizes em Java
+MAPA – Programação de Sistemas I: Multiplicação de Matrizes em Java
 
 Autor: Michael Ewerton Oliveira Disciplina: Programação de Sistemas I Instituição: UniCesumar
 
